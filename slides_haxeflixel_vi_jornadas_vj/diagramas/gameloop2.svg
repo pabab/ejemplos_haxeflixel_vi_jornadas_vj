@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="779.52753"
+   height="538.58264"
+   id="svg3131"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gameloop2.svg"
+   inkscape:export-filename="/home/pabratte/Dropbox/slides_haxe/img/gameloop2.png"
+   inkscape:export-xdpi="62"
+   inkscape:export-ydpi="62">
+  <defs
+     id="defs3133">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path3978"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3978-0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3978-4"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61399265"
+     inkscape:cx="-7.3625784"
+     inkscape:cy="365.38833"
+     inkscape:current-layer="layer1"
+     id="namedview3135"
+     showgrid="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3140"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3137">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-205.51187)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3142"
+       width="230"
+       height="40"
+       x="85"
+       y="219.09448" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 200,309.09448 125,60 c -100,50 -65,30 -125,60 l -125,-60 z"
+       id="rect3142-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="200"
+       y="249.09448"
+       id="text3935"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3937"
+         x="200"
+         y="249.09448"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold">Init</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="200"
+       y="379.09448"
+       id="text3939"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3941"
+         x="200"
+         y="379.09448"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold">game over?</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c8c8c8;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.08661416999999982, 7.08661416999999982;stroke-dashoffset:0"
+       id="rect3142-45"
+       width="230"
+       height="40"
+       x="85"
+       y="479.09448" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#828282;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="200"
+       y="509.09448"
+       id="text3935-3"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3937-2"
+         x="200"
+         y="509.09448"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#828282;fill-opacity:1;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold">update</tspan></text>
+    <rect
+       style="fill:none;stroke:#c8c8c8;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.08661417, 7.08661417;stroke-dashoffset:0"
+       id="rect3142-0"
+       width="230"
+       height="40"
+       x="85"
+       y="569.09448" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#828282;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="200"
+       y="599.09448"
+       id="text3935-6"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3937-3"
+         x="200"
+         y="599.09448"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#828282;fill-opacity:1;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold">draw</tspan></text>
+    <rect
+       style="fill:none;stroke:#c8c8c8;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.6299212, 10.6299212;stroke-dashoffset:0"
+       id="rect2995"
+       width="270"
+       height="180"
+       x="65"
+       y="454.09448" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2Mend)"
+       d="m 200,259.09448 0,50"
+       id="path2997"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow2Mend)"
+       d="m 200,429.09448 0,50"
+       id="path4404"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 200,519.09448 0,50"
+       id="path3956"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 200,609.09448 0,50 -175,0 0,-290 50,0"
+       id="path4140"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 325,369.09448 50,0 0,315 -175,0 0,50"
+       id="path4324"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3142-45-8"
+       width="230"
+       height="40"
+       x="515"
+       y="284.09448" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="630"
+       y="314.09448"
+       id="text3935-3-7"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3937-2-8"
+         x="630"
+         y="314.09448"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold">update</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3142-0-7"
+       width="230"
+       height="40"
+       x="515"
+       y="374.09448" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="630"
+       y="404.09448"
+       id="text3935-6-8"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3937-3-2"
+         x="630"
+         y="404.09448"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold">draw</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.81838036;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2995-3"
+       width="270"
+       height="180"
+       x="495"
+       y="259.09448" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3142-45-3"
+       width="230"
+       height="40"
+       x="515"
+       y="544.09448" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="630"
+       y="574.09448"
+       id="text3935-3-2"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3937-2-0"
+         x="630"
+         y="574.09448"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold">update</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3142-0-9"
+       width="230"
+       height="40"
+       x="515"
+       y="634.09448" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="630"
+       y="664.09448"
+       id="text3935-6-3"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3937-3-0"
+         x="630"
+         y="664.09448"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold">draw</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.81838036;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2995-5"
+       width="270"
+       height="180"
+       x="495"
+       y="519.09448" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="505"
+       y="509.09448"
+       id="text3807"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3809"
+         x="505"
+         y="509.09448"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold">playstate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:126.99999809%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serreria Sobria;-inkscape-font-specification:Serreria Sobria Bold"
+       x="505"
+       y="249.09448"
+       id="text3811"
+       sodipodi:linespacing="127%"><tspan
+         sodipodi:role="line"
+         id="tspan3813"
+         x="505"
+         y="249.09448">menustate</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2Mend-1)"
+       d="m 335,539.09448 c 130,0 30,-190 160,-190 l 0,0"
+       id="path3815"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

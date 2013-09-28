@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Haxe/NME</title>
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/beige.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+		<div class="slides">
+
+
+
+<!-- ######################## SLIDE ######################## -->
+
+    <section data-transition="cube">
+        <h2>Creando un videojuego en<br><img height="150" style="border: 0px;box-shadow: 0px 0px 0px;" class="no-border" src="img/haxeflixel-logo.png"><br>desde cero</h2>
+        <br><br><br>
+        
+        <h4>Pablo Abratte - Federico Donnet</h4>
+        <br>
+        <h6>IV Jornadas de videojuegos</h6>
+        <h6>28 de Septiembre de 2013</h6>
+</section>
+
+
+
+<!-- ######################## SLIDE ######################## -->
+
+<section>
+<div>
+    <img height="75" style="border: 0px;box-shadow: 0px 0px 0px;" class="no-border" src="img/haxeflixel-logo.png">
+    <br>
+    <br>
+    <h2>=</h2> 
+    <img width="600" style="border: 0px;box-shadow: 0px 0px 0px;" class="no-border" src="img/haxe_openfl_flixel.png">
+</div>
+
+</section>
+  
+
+
+
+
+<!-- ######################## SLIDE ######################## -->
+
+<section data-transition="page">
+ <img src="img/about-haxeflixel.png" width="1500">
+</section>
+
+<!-- ######################## SLIDE ######################## -->
+
+<section data-transition="fade">
+    <h2>Ejemplo</h2>
+    <div>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+        width="640"
+    height="480"
+    id="haxe"
+    align="middle">
+<param name="movie" value="src/tut09_ej1.swf"/>
+<param name="allowScriptAccess" value="always" />
+<param name="quality" value="high" />
+<param name="salign" value="lt" />
+<param name="bgcolor" value="#ffffff"/>
+<param name="scale" value="showall" />
+<embed src="src/tut09_ej1.swf"
+       bgcolor="#ffffff"
+       width="640"
+       height="480"
+       name="haxe"
+       quality="high"
+       align="middle"
+       allowScriptAccess="always"
+       type="application/x-shockwave-flash"
+       pluginspage="http://www.macromedia.com/go/getflashplayer"
+/>
+
+</object>
+</div>
+</section>
+
+
+<!-- ######################## SLIDE ######################## -->
+
+<section data-transition="zoom">
+    <h2>Manejo de escenas</h2>
+    <img src="img/gameloop2.png" height="550">
+</section>
+
+
+<!-- ######################## SLIDE ######################## -->
+
+
+<section>
+    <h2>Grafo de escena</h2>
+    <img src="img/jerarquia.png" height="550">
+</section>
+
+
+<!-- ######################## SLIDE ######################## -->
+<!--
+<section>
+    <h2>TODO</h2>
+    <div>
+        <ul>
+            <li>cambiar fuente del codigo</li>
+            <li>links de descarga de los ejemplos</li>
+            <li>coloreado de sintaxis haxe</li>
+            <li>Transiciones</li>
+            <li>Presentación</li>
+        </ul>
+    </div>
+</section>
+-->
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: false,
+				center: true,
+                rollingLinks: false,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+            
+
+
+
+		</script>
+
+	</body>
+</html>
